@@ -4,7 +4,7 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-4ba87336cccf.jpg"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://github.com/trhacknon/infect/blob/main/IMG_20220309_054010.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/trhacknon"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
