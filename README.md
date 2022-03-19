@@ -7,15 +7,15 @@
 <a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://github.com/trhacknon/infect/blob/main/IMG_20220309_054010.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/trhacknon"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="http://memanon.ml/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/trhacknon"><img title="Github" src="https://img.shields.io/badge/trhacknon-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="http://memanon.ml/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-trhacknon ki-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/trhacknon"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/trhacknon"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/trhacknon"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/trhacknon"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/infect?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/trhacknon"><img title="Followers" src="https://img.shields.io/github/followers/trhacknon?color=blue&style=flat-square"></a>
+<a href="https://github.com/trhacknon"><img title="Stars" src="https://img.shields.io/github/stars/trhacknon/infect?color=red&style=flat-square"></a>
+<a href="https://github.com/trhacknon"><img title="Forks" src="https://img.shields.io/github/forks/trhacknon/infect?color=red&style=flat-square"></a>
+<a href="https://github.com/trhacknon"><img title="Watching" src="https://img.shields.io/github/watchers/trhacknon/infect?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/trhacknon"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
@@ -87,21 +87,18 @@ __EXIT__ :
 <img width="46%" src="https://github.com/trhacknon/infect/blob/main/infectoo.jpg"/>
 </p>
 
-## WATCH VIDEO [Termux]
-
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
 
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/trhacknon-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/)
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/)
-<a href="https://memanon.ml"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://memanon.ml"><img title="YouTube" src="https://img.shields.io/badge/YouTube-trhacknon Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
 
